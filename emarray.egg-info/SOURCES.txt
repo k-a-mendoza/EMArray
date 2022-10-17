@@ -1,0 +1,7 @@
+setup.py
+emarray/__init__.py
+emarray/core.py
+emarray.egg-info/PKG-INFO
+emarray.egg-info/SOURCES.txt
+emarray.egg-info/dependency_links.txt
+emarray.egg-info/top_level.txt
